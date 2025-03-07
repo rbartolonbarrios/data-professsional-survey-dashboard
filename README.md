@@ -1,5 +1,7 @@
 # Power BI Dashboard: Data Professionals Survey
 
+![PDF file](https://github.com/rbartolonbarrios/data-professsional-survey-dashboard/blob/main/DataProfessionalDashboard.pdf)
+
 This Power BI dashboard presents insights derived from a survey conducted among 630 data professionals. The survey captured data on various aspects such as favorite programming languages, country of origin, average age, and average salary. The dashboard provides visualizations that highlight key findings and trends within the dataset.
 
 ## Data Collection
@@ -31,7 +33,7 @@ The Power BI dashboard showcases the following visualizations based on the trans
 - Average Salary: This visualization showcases the average salary range among the survey respondents, giving insights into the earning potential within the data profession.
 
 ## Visualization
-To view the Power BI dashboard, you can check out the visualization as a [PDF file](https://github.com/rbartolonbarrios/data-professsional-survey-dashboard/blob/main/DataProfessionalDashboard.pdf) or download the Power BI file from this repository.
+To view the Power BI dashboard, download the **DataProfessionalDashboard** Power BI file from this repository.
 
 
 
