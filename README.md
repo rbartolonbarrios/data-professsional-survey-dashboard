@@ -18,7 +18,7 @@ To ensure accurate analysis and visualization, the survey data underwent several
 
 - Data Type Changes: Appropriate data types were assigned to each column, ensuring accurate calculations and visualizations.
 
-## Dashboard Visualizations
+## Dashboard Features
 
 The Power BI dashboard showcases the following visualizations based on the transformed survey data:
 
@@ -30,18 +30,8 @@ The Power BI dashboard showcases the following visualizations based on the trans
 
 - Average Salary: This visualization showcases the average salary range among the survey respondents, giving insights into the earning potential within the data profession.
 
-## Usage and Customization
+## Visualization
+To view the Power BI dashboard, you can check out the visualization as a [PDF file](https://github.com/rbartolonbarrios/data-professsional-survey-dashboard/blob/main/DataProfessionalDashboard.pdf) or download the Power BI file from this repository.
 
-To utilize this Power BI dashboard for your own analysis or exploration:
-
-1. Clone or download the project repository from GitHub.
-
-2. Open the Power BI file (.pbix) using Power BI Desktop.
-
-3. Ensure that you have the necessary data source connections set up or modify the connections within Power Query as per your requirements.
-
-4. Explore the visualizations and interact with the filters provided to dive deeper into the data.
-
-5. Customize the dashboard as needed by adding additional visualizations, modifying existing ones, or incorporating more advanced features offered by Power BI.
 
 
