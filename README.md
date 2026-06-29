@@ -1,36 +1,33 @@
-# Power BI Dashboard: Data Professionals Survey
+# Data Professionals Survey Dashboard
 
 ![](DataProfessionalDashboard.png)
 
-This Power BI dashboard presents insights derived from a survey conducted among 630 data professionals. The survey captured data on various aspects such as favorite programming languages, country of origin, average age, and average salary. The dashboard provides visualizations that highlight key findings and trends within the dataset.
+This project demonstrates the development of an interactive Power BI dashboard using survey data collected from more than 600 data professionals. The dashboard explores programming language preferences, salary trends, work-life satisfaction, career demographics, and geographic distribution through interactive visualizations.
+
+## Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
 
 ## Data Collection
 
-The survey data was collected from 630 data professionals with diverse job titles, including data analysts, data scientists, data engineers, and more. The participants were asked to provide information on their preferred programming languages, country of residence, age, and salary.
+The project uses a publicly available survey dataset containing responses from over 600 data professionals. The survey captures demographic information, programming language preferences, salaries, career satisfaction, and geographic location.
 
-## Data Transformation
+## Project Features
 
-To ensure accurate analysis and visualization, the survey data underwent several transformations using Power Query within Power BI. The following transformations were applied:
-
-- Standardizing Values: The values in certain columns were standardized to ensure consistency and accuracy during analysis.
-
-- Column Splitting: Delimiters were utilized to split certain columns into separate fields, enabling better categorization and analysis of the data.
-
-- Column Removal: Unnecessary columns that did not contribute to the insights or visualizations were removed to enhance data clarity and reduce clutter.
-
-- Data Type Changes: Appropriate data types were assigned to each column, ensuring accurate calculations and visualizations.
+- Cleaned and standardized survey responses using Power Query.
+- Split and transformed categorical fields to improve reporting.
+- Assigned appropriate data types for accurate calculations.
+- Prepared an analysis-ready dataset for dashboard development.
 
 ## Dashboard Features
 
-The Power BI dashboard showcases the following visualizations based on the transformed survey data:
-
-- Favorite Programming Languages: This visualization presents a breakdown of the preferred programming languages among the data professionals, offering insights into their programming language preferences.
-
-- Country of Origin: This visualization displays the distribution of data professionals across different countries, highlighting the geographical diversity of the respondents.
-
-- Average Age: This visualization illustrates the average age of data professionals participating in the survey, providing a demographic overview.
-
-- Average Salary: This visualization showcases the average salary range among the survey respondents, giving insights into the earning potential within the data profession.
+- Built interactive KPI cards summarizing participant demographics and survey statistics.
+- Visualized salary trends across data-related job titles.
+- Compared programming language preferences among different professional roles.
+- Explored work-life balance and salary satisfaction using interactive gauges.
 
 ## Visualization
 To view the Power BI dashboard, download the **DataProfessionalDashboard** Power BI file from this repository.
